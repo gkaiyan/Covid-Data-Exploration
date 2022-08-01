@@ -4,7 +4,7 @@ Exploring Covid Dataset with SQL Queries
 - 2 datasets
 1. CovidDeaths:
   - continent
-  - location -> country
+  - location 
   - date 
   - population
   - total_cases
