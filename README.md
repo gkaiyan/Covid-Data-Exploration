@@ -3,7 +3,7 @@ Exploring Covid Dataset with SQL Queries <b>
 <b>
   
 There are 2 datasets in this project 
-1. Covid_deaths:
+1. covid_deaths:
     - continent
     - location 
     - date 
