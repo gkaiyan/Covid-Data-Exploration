@@ -3,7 +3,7 @@ Exploring Covid Dataset with SQL Queries <b>
 <b>
   
 There are 2 datasets in this project 
-1. CovidDeaths:
+1. Covid_deaths:
     - continent
     - location 
     - date 
@@ -12,7 +12,7 @@ There are 2 datasets in this project
     - new_cases
     - total_deaths 
     - new_deaths
-2. CovidVaccinations:
+2. covidvaccinations:
     - continent
     - location
     - date
