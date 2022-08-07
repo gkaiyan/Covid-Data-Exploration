@@ -20,5 +20,7 @@ There are 2 datasets in this project
     - new_vaccinations 
 <b>
 <b>
-I explore the dataset using SQL queries and gained some insights from them. 
+- Explore the data with SQL Queries 
+- Tidy and extract data needed for Tableau
+- Visualiza data with Tableau 
   
