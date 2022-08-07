@@ -20,7 +20,11 @@ There are 2 datasets in this project
     - new_vaccinations 
 <b>
 <b>
-- Explore the data with SQL Queries 
-- Tidy and extract data needed for Tableau
-- Visualiza data with Tableau 
-  
+# What I do here: 
+
+- Explore the data with SQL Queries
+- Tidy and extract data needed for Tableau 
+- Visualiza data with Tableau <b>
+
+
+![](Covid_data_visualization.png)[https://public.tableau.com/app/profile/kai.yan6223/viz/CovidDataVisualization_16598607975520/Dashboard1]
